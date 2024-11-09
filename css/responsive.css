@@ -127,3 +127,15 @@
         max-width: 1170px;
     }
 }
+
+  .desktop-nav { display: none !important; }
+  @media (min-width: 992px) {
+    .desktop-nav { display: flex !important; }
+    .mobile-nav { display: none !important; }
+  }
+
+  .desktop-nav2 { display: none !important; }
+  @media (min-width: 992px) {
+    .desktop-nav2 { display: block !important; }
+    .mobile-nav2 { display: none !important; }
+  }

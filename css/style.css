@@ -349,7 +349,6 @@ a:focus {
 
 .shop_section .box a {
   color: #333333;
-  fon;
 }
 
 .shop_section .box .img-box {
@@ -489,7 +488,7 @@ a:focus {
   background-color: #B56027;
   color: #ffffff;
   border: 1px solid #B56027;
-  border-radius: 0;
+  border-radius: 4px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -545,7 +544,7 @@ a:focus {
 }
 
 .gift_section .box {
-  background-color: #6929a5;
+  background-color: #A93C36;
   border-radius: 15px;
   color: #ffffff;
 }
@@ -584,16 +583,18 @@ a:focus {
 .gift_section .detail-box .btn-box a {
   width: 165px;
   text-align: center;
-  margin: 5px;
+  margin: px;
+  font-size: 15px;
 }
 
 .gift_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 0;
   background-color: #ffffff;
-  color: #000000;
+  color: #333333;
+  font-weight: 500;
   border: 1px solid #ffffff;
-  border-radius: 0;
+  border-radius: 4px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
@@ -926,6 +927,11 @@ form div {
 
 .product_description h3{
   color: #333333;
+  font-weight: 500;
+}
+
+.product_description h4{
+  color: #B56027;
   font-weight: 500;
 }
 
