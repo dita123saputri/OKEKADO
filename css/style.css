@@ -48,7 +48,7 @@ body {
 }
 
 .heading_container h2 span {
-  color: #B56027;
+  color: #b56027;
 }
 
 .heading_container.heading_center {
@@ -289,9 +289,9 @@ a:focus {
 .slider_section .detail-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #B56027;
+  background-color: #b56027;
   color: #ffffff;
-  border: 1px solid #B56027;
+  border: 1px solid #b56027;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -301,7 +301,7 @@ a:focus {
 
 .slider_section .detail-box a:hover {
   background-color: transparent;
-  color: #B56027;
+  color: #b56027;
 }
 
 .slider_section .carousel_btn-box {
@@ -366,7 +366,6 @@ a:focus {
 }
 
 .shop_section .box .img-box img {
-  
   max-width: 150px;
   max-height: auto;
 }
@@ -380,10 +379,8 @@ a:focus {
   justify-content: space-between;
 }
 
-
-
 .shop_section .box .detail-box h6 span {
-  color: #B56027;
+  color: #b56027;
 }
 
 .shop_section .box .new {
@@ -414,15 +411,14 @@ a:focus {
   -ms-flex-pack: center;
   justify-content: center;
   margin-top: 45px;
-  
 }
 
 .shop_section .btn-box a {
   display: inline-block;
   padding: 10px 40px;
-  background-color: #B56027;
+  background-color: #b56027;
   color: #ffffff;
-  border: 1px solid #B56027;
+  border: 1px solid #b56027;
   border-radius: 5px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -430,7 +426,7 @@ a:focus {
 
 .shop_section .btn-box a:hover {
   background-color: transparent;
-  color: #B56027;
+  color: #b56027;
 }
 
 .saving_section {
@@ -440,7 +436,7 @@ a:focus {
 
 .saving_section .box {
   padding-top: 45px;
-  background-color: #E8DBC9;
+  background-color: #e8dbc9;
   color: #333333;
   border-radius: 15px;
 }
@@ -485,9 +481,9 @@ a:focus {
 .saving_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 0;
-  background-color: #B56027;
+  background-color: #b56027;
   color: #ffffff;
-  border: 1px solid #B56027;
+  border: 1px solid #b56027;
   border-radius: 4px;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -495,7 +491,7 @@ a:focus {
 
 .saving_section .detail-box .btn-box .btn1:hover {
   background-color: transparent;
-  color: #B56027;
+  color: #b56027;
 }
 
 .saving_section .detail-box .btn-box .btn2 {
@@ -544,7 +540,7 @@ a:focus {
 }
 
 .gift_section .box {
-  background-color: #A93C36;
+  background-color: #a93c36;
   border-radius: 15px;
   color: #ffffff;
 }
@@ -678,9 +674,9 @@ a:focus {
 .contact_section button {
   display: inline-block;
   padding: 12px 45px;
-  background-color: #B56027;
+  background-color: #b56027;
   color: #ffffff;
-  border: 1px solid #B56027;
+  border: 1px solid #b56027;
   border-radius: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -725,7 +721,7 @@ a:focus {
 
 .client_section .box .client_info .client_name h5 {
   font-weight: 600;
-  color: #B56027;
+  color: #b56027;
 }
 
 .client_section .box .client_info .client_name h6 {
@@ -733,6 +729,14 @@ a:focus {
   color: #bfc0c0;
   font-weight: normal;
   font-size: 15px;
+}
+
+.client_section .box .client_info .client_name p {
+  margin-bottom: 0;
+  padding: 0;
+  color: #bfc0c0;
+  font-weight: normal;
+  font-size: 14px;
 }
 
 .client_section .box .client_info i {
@@ -747,7 +751,7 @@ a:focus {
 .client_section .carousel-control-next {
   width: 45px;
   height: 125px;
-  background-color: #B56027;
+  background-color: #b56027;
   opacity: 1;
   font-size: 28px;
   font-weight: bold;
@@ -809,7 +813,7 @@ a:focus {
   outline: none;
   border: none;
   color: #ffffff;
-  background: #B56027;
+  background: #b56027;
   margin-top: 15px;
   text-transform: uppercase;
 }
@@ -887,7 +891,7 @@ form div {
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
 
-.content-description{
+.content-description {
   padding: 48px 24px;
   display: flex;
   flex-direction: row;
@@ -907,36 +911,35 @@ form div {
 
 .mini_nav a {
   font-weight: 500;
-  color: #B56027;
+  color: #b56027;
 }
 
-.mini_nav p{
+.mini_nav p {
   font-weight: bold;
   color: #333333;
 }
 
-.mini_nav a:hover{
+.mini_nav a:hover {
   font-weight: 500;
   color: #4259dd;
   opacity: 50%;
 }
 
-.product_description{
+.product_description {
   padding-top: 12px;
 }
 
-.product_description h3{
+.product_description h3 {
   color: #333333;
   font-weight: 500;
 }
 
-.product_description h4{
-  color: #B56027;
+.product_description h4 {
+  color: #b56027;
   font-weight: 500;
 }
 
-
-.product_description h2{
+.product_description h2 {
   color: #333333;
   font-weight: 600;
 }
@@ -963,17 +966,17 @@ form div {
   gap: 16px;
 }
 
-.ecommerce a{
+.ecommerce a {
   padding: 12px;
   background-color: #333333;
-  color: #F6F6F6;
+  color: #f6f6f6;
   border-radius: 10px;
 }
 
-.ecommerce a:hover{
+.ecommerce a:hover {
   padding: 12px;
   background-color: #b5b5b5;
-  color: #B56027;
+  color: #b56027;
   border-radius: 10px;
   font-weight: 600;
   opacity: 50%;
@@ -1000,9 +1003,8 @@ form div {
 }
 
 .nav-btn:hover {
-  opacity: 100%; 
+  opacity: 100%;
 }
-
 
 .left {
   left: 5px;
@@ -1012,13 +1014,13 @@ form div {
   right: 5px;
 }
 
-.img-box-detail{
+.img-box-detail {
   position: relative;
   width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #F6F6F6;
+  background-color: #f6f6f6;
   max-width: 100%;
   max-height: 400px;
   overflow: hidden;
@@ -1028,19 +1030,16 @@ form div {
   bottom: 8px;
 }
 
-
-
-.img-box-detail img{
+.img-box-detail img {
   display: flex;
   max-width: 250px;
   max-height: 100%;
   padding: 12px;
 }
 
-
-
 @media screen and (max-width: 1000px) {
-  .content-description, aside {
+  .content-description,
+  aside {
     width: 100%;
     padding: 0;
   }
